@@ -12,29 +12,29 @@ type FeatureItem = {
 // Free illustrations: https://undraw.co/illustrations
 const FeatureList: FeatureItem[] = [
     {
-        title: 'Item 1',
+        title: '짱구는',
         Svg: require('@site/static/img/leaders.svg').default,
         description: (
             <>
-                dddd
+              못말려  
             </>
         ),
     },
     {
-        title: 'Item 2',
+        title: '보노보노도',
         Svg: require('@site/static/img/speech.svg').default,
         description: (
             <>
-              Description 2
+              못말려
             </>
         ),
     },
     {
-        title: 'Item 3',
+        title: '어려운',
         Svg: require('@site/static/img/gatherings.svg').default,
         description: (
             <>
-              Description 3
+              홈페이지 만들기
             </>
         ),
     },
