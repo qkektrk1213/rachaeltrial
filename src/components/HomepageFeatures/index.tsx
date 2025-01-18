@@ -30,11 +30,11 @@ const FeatureList: FeatureItem[] = [
         ),
     },
     {
-        title: '어려운',
+        title: '액션가면',
         Svg: require('@site/static/img/gatherings.svg').default,
         description: (
             <>
-              홈페이지 만들기
+              액션파워
             </>
         ),
     },
