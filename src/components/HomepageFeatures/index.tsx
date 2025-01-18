@@ -16,7 +16,7 @@ const FeatureList: FeatureItem[] = [
         Svg: require('@site/static/img/leaders.svg').default,
         description: (
             <>
-                Description 1
+                dddd
             </>
         ),
     },
