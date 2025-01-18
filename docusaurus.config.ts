@@ -98,7 +98,7 @@ const config: Config = {
                     ],
                 },
                 {
-                    // TODO( footer components )
+                    // TODO( 이거슨 무엇인가 )
                     title: 'Community',
                     items: [
                         {
