@@ -98,15 +98,15 @@ const config: Config = {
                     ],
                 },
                 {
-                    // TODO( 이거슨 무엇인가 )
+                    // TODO(footers )
                     title: 'Community',
                     items: [
                         {
-                            label: 'Kakao',
+                            label: '카카오',
                             href: 'https://open.kakao.com/o/ggM3CWFb',
                         },
                         {
-                            label: 'Instagram',
+                            label: '인스타그램',
                             href: 'https://www.instagram.com/hongdaetoastmasters/',
                         },
                     ],
